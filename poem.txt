@@ -5,4 +5,5 @@ Orange
 Yellow
 Green
 Blue
+Indigo
 My rainbow for you
